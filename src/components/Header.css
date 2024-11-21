@@ -1,0 +1,36 @@
+.header {
+    background-color: black;
+    color: var(--white);
+    min-height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+
+.header-logo {
+    height: 10rem;
+    pointer-events: none;
+}
+
+.header-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0.5rem;
+
+    a {
+        padding: 0.75rem;
+        text-decoration: none;
+        font-weight: bold;
+        color: var(--main-1);
+    }
+
+    a:hover {
+        background-color: var(--main-1);
+        color: black;
+        border-radius: 0.5rem;
+    }
+}
+

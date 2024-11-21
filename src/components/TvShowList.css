@@ -1,0 +1,12 @@
+.tvshows-list li {
+    list-style-type: none;
+    padding: 1rem;
+    width: 30rem;
+    font-weight: bolder;
+    
+}
+
+.tvshows-list {
+    display: flex;
+    justify-content: center;
+}

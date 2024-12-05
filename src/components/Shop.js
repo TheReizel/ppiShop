@@ -31,7 +31,7 @@ export default function Shop() {
 
     return (
         <section id="shop">
-            <h2>Elegant Products for Everyone</h2>
+            <h2>Elegant Phones for Everyone</h2>
 
             <div className={styles.search_container}>
                 <div className={styles.search_box}>

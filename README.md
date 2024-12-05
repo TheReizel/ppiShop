@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# IFRN - Campus Macau
+# Curso Técnico em Informática
+
+## Disciplina: Programação para Internet
+
+HTML, CSS e Javascript. Criação de projetos usando a biblioteca React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
